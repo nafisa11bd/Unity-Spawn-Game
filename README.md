@@ -8,6 +8,6 @@ This is a Unity-based 2D game where players control a character to move, rotate,
 ## Requirements
 - Unity 2021.3 or later.
 - A system capable of running Unity projects.
--
+
 ## Screenshot of Gameplay
 <img width="731" alt="Screenshot 2025-04-17 at 5 08 48 PM" src="https://github.com/user-attachments/assets/8363a74f-259d-45ed-86ff-6a75e21d1ea5" />
